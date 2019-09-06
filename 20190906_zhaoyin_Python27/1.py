@@ -14,4 +14,4 @@ for i in range(n):
         days = i + 1
         break
 
-print days
+# print days
