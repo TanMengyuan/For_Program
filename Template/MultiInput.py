@@ -1,4 +1,5 @@
 import sys
 
-for line in sys.stdin:
-    s = list(map(int, line.strip().split()))
+n = int(sys.stdin.readline().strip())
+for i in range(n):
+    s = list(map(int, sys.stdin.readline().strip().split()))
