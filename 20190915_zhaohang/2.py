@@ -1,3 +1,8 @@
+"""
+@version: python3.7
+@author: ‘mengyuantan‘
+@contact: tanmy1016@126.com
+"""
 import sys
 
 n = int(sys.stdin.readline().strip())
