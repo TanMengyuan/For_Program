@@ -17,4 +17,4 @@ area = 0
 for i in range(len(pair) / 2):
     area += pair[2 * i] * pair[2 * i + 1]
 
-print area
+# print area
